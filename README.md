@@ -2,9 +2,9 @@ __*Christopher Stanley*__
 [Stanels42](https://github.com/Stanels42)
 
 # Learning Journal
-***
-For me growth mindset is all about being able to challange myself while also focusing on the task at hand. I've struggled in the past with being able to stay on task when being challenged and often giving up before I would ask for help. I need to take advantage of the resources around me to help with the obsticles in my way.
-***  
+
+For me growth mindset is all about being able to challange myself while also focusing on the task at hand. I've struggled in the past with being able to stay on task when being challenged and often giving up before I would ask for help. I need to take advantage of the resources around me to help with the obsticles in my way.  
+
 
 *Three Points to Remember*  
 
