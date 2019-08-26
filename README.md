@@ -16,4 +16,5 @@ ______
 
 
 [Learning Markdown](https://stanels42.github.io/learningjournal/learning-markdown)
+
 [Coder's computer & console](https://stanels42.github.io/learningjournal/coders-computer)
