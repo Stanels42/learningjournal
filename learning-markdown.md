@@ -4,20 +4,57 @@
 ###### Answers at Bottem
 
 ### Make Bold  
-- [ ] 
-### Put in Italics  
+- \[example words\]
+- \*example words\*
+- \~example words\~
+- \*\*example words\*\*
+### Put in Italics
+-
+-
+-
+-
 ### Both Bold and Italics
+-
+-
+-
+-
 ### Add Strikethrough
+-
+-
+-
+-
+### Show Code
+-
+-
+-
+-
 ### Links
+-\(description\)\[Link\]
+-
+-
+-
 ### Lists
+-
+-
+-
+-
 ### Bullet Points
+-
+-
+-
+-
 ### Headers
+-
+-
+-
+-
 
 ## Answers
 #### Make Bold  
 #### Put in Italics  
 #### Both Bold and Italics
 #### Add Strikethrough
+#### Show Code
 #### Links
 #### Lists
 #### Bullet Points
