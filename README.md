@@ -1,4 +1,4 @@
-_*Christopher Stanley*_  
+__*Christopher Stanley*__  
 [Stanels42](https://github.com/Stanels42)
 
 # Learning Journal
