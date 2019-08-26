@@ -1,4 +1,4 @@
-
+https://stanels42.github.io/learningjournal/
 
 # Coder's Computer
 
