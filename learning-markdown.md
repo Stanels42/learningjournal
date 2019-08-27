@@ -3,7 +3,7 @@
 # Learning Markdown 
 
 # Largest Header
-###### Smallest Header
+###### Smallest Header with 6 #
 *Italics with 1 \* or \_*  
 **Bold Text with 2 \* or \_**  
 **Bold Text with _Italics_**  
@@ -20,7 +20,7 @@ _Itilic Text with **Bold**_
 - need
 * a
 - bullet
-* point use \- or \*
+* point use \- \+ or \*
   - indent
     * and again
       - and you get the point
