@@ -4,9 +4,9 @@
 
 # Large Header
 ###### Small Header
-**Bold Text with 2 \* **
+**Bold Text with 2 '*' **
 
-__Bold Text with 2 \_ __
+__Bold Text with 2 '_' __
 
 _Italics_
 
