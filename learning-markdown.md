@@ -2,12 +2,30 @@
 
 # Learning Markdown 
 
-# Large Header
-###### Small Header
-**Bold Text with 2 '*' **
+# Largest Header
+###### Smallest Header
+*Italics with 1 \* or \_*  
+**Bold Text with 2 \* or \_**  
+**Bold Text with _Italics_**
+_Itilic Text with **Bold**_  
 
-__Bold Text with 2 '_' __
+| This     | is       | a        | table    |
+|----------|:---------|:--------:|---------:|
+| nothing  | Left     | Center   | Right    |
+| $        | $        | $        | $        |
+|_Itilics_ | and      | **Bold** |Still Work|
 
-_Italics_
-
-*Italics*
+- When
+- you
+- need
+- a
+- bullet
+- point
+  - indent
+    - and again
+      - and you get the point
+      
+1. Counting
+2. Numbers
+3. Works
+5. This actually says 5 in the code
