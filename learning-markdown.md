@@ -5,6 +5,9 @@
 # Large Header
 ###### Small Header
 **Bold Text with 2 \* **
-__Bold Text__
+
+__Bold Text with 2 \_ __
+
 _Italics_
+
 *Italics*
