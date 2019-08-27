@@ -17,3 +17,6 @@ A lot of this comes down to personal preferance. Use what you are most famiular 
 | ls                      | list contents           |
 | ls -a                   | list hidden contents    |
 | file                    | give infomation about current file |
+
+
+The console allow you to do everything that a file explorer can but with expierence you can more efficently navagate your files.
