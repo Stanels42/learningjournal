@@ -7,7 +7,7 @@
 *Italics with 1 \* or \_* \
 **Bold Text with 2 \* or \_** \
 **Bold Text with _Italics_** \
-_Itilic Text with **Bold**_ \
+_Itilic Text with **Bold**_ 
 
 | This     | is       | a        | table    |
 |----------|:---------|:--------:|---------:|
