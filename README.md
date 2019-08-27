@@ -23,3 +23,5 @@ ______
 ### Day 2
 
 [Repository](https://stanels42.github.io/learningjournal/repository)
+
+[What I learned about the Cloud](https://stanels42.github.io/learningjournal/cloud-revisions)
