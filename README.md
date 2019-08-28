@@ -25,3 +25,5 @@ ______
 [Repository](https://stanels42.github.io/learningjournal/repository)
 
 [What I learned about the Cloud](https://stanels42.github.io/learningjournal/cloud-revisions)
+
+[Website Basics](https://stanels42.github.io/learningjournal/webpage-basics)
