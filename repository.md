@@ -6,19 +6,19 @@ The Git workflow is add, commit, push
 
 | **Console Command** | _Usage_ |
 |:---------------:|:------|
-| `mkdir <\name>` | Make a new file in the console|
+| `mkdir <Name>` | Make a new file in the console|
 | `git clone <URL>` | Retreve a repository off of GitHub |
 | `git commit -m "Description of change"` | This is committing a local change. Its often important to note what changes were made and why you made them. This *Does Not* update the file on github only localy. |
 | `git commit -a` | This just means to commmit all |
 | `git status` | This compare your current changes to the last 'fetch' of information from the server |
-| `git add <\filename>` | This is to make an untracked file tracked. |
+| `git add <Filename>` | This is to make an untracked file tracked. |
 | `git add *` | makes all untracked files tracked |
 | `git push origin master` | This pushes your last commit to the origin (In our case GitHub URL) on branch master |
-| `git push <remote><branch>` | The prior command is an example of this in use |
+| `git push <Remote><Branch>` | The prior command is an example of this in use |
 | `git pull origin master` | pull the most recent version of the origin's master branch down to your computer. |
-| `git pull <remote><branch>` | This allows you to pull different branches from different remotes connected to the system. |
+| `git pull <Remote><Branch>` | This allows you to pull different branches from different remotes connected to the system. |
 | `git fetch origin` | This command collects information on the current state of the Git repository from the origin |
-| `git fetch <\remote name>` | You can compare the respitory to other remotes connected to the project |
+| `git fetch <Remote Name>` | You can compare the respitory to other remotes connected to the project |
 | `git remote` | Lets you see the short name of the remote repositories |
 | `git remote -v` | A better version of the prior command that lets you see the URL of the remotes |
 
