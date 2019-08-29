@@ -27,3 +27,7 @@ ______
 [What I learned about the Cloud](https://stanels42.github.io/learningjournal/cloud-revisions)
 
 [Website Basics](https://stanels42.github.io/learningjournal/webpage-basics)
+
+### Day 3
+
+[CSS Basics](https://stanels42.github.io/learningjournal/css-basics)
