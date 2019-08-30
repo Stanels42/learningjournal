@@ -16,13 +16,13 @@ ______
 
 ### Day 1
 
-[Learning Markdown](https://stanels42.github.io/learningjournal/learning-markdown)
+Read 1: [Learning Markdown](https://stanels42.github.io/learningjournal/learning-markdown)
 
-[Coder's computer & console](https://stanels42.github.io/learningjournal/coders-computer)
+Read 2 : [Coder's computer & console](https://stanels42.github.io/learningjournal/coders-computer)
 
 ### Day 2
 
-[Repository](https://stanels42.github.io/learningjournal/repository)
+Read 3: [Repository](https://stanels42.github.io/learningjournal/repository)
 
 [What I learned about the Cloud](https://stanels42.github.io/learningjournal/cloud-revisions)
 
@@ -30,4 +30,12 @@ ______
 
 ### Day 3
 
-[CSS Basics](https://stanels42.github.io/learningjournal/css-basics)
+Read 5: [CSS Basics](https://stanels42.github.io/learningjournal/css-basics)
+
+Read 6: [Active Webpages](https://stanels42.github.io/learningjournal/active-webpage)
+
+### Day 4
+
+Read 7: [Intro to Scripts](https://stanels42.github.io/learningjournal/intro-scripts)
+
+Read 8: [How Computers Work](https://stanels42.github.io/learningjournal/how-computers-work)
