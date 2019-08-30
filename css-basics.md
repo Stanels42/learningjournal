@@ -41,7 +41,7 @@ opacity - The value of how transparent a certain color is. In programming it is 
 |`background-color`| Used for changing the background color of any given element |
 |`opacity`| The value of how much you can 'see' through a color |
 |`rgba`| Simular to the Red, Green, Blue (RGB) color selector but with another value that allows for the control of opacity |
-|`hsl`/`hsla`|  |
+|`hsl`/`hsla`| temp |
 
 ## Rules
 `!important` overrides any other command. When faced with 2 or more commands of equal importance only the last one will be listened to. Will always use the most specific selector.
